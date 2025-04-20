@@ -1,3 +1,5 @@
+//Sketch on Github: https://github.com/RalfCyprus/ESP8266_Encoder_Slider_LED_Control
+//Youtube: https://youtu.be/AQuBhiYpJxo
 ESP8266 LED Dimming Project with Rotary Encoder and Smartphone Control
 This project allows you to control 12V LED ceiling spotlights using both a rotary encoder and a smartphone. It’s based on an ESP8266-12 and designed for an off-grid container on my farm, powered by a 12V battery.
 Features
