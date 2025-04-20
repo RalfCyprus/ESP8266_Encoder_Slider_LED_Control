@@ -1,4 +1,5 @@
-
+//Sketch on Github: https://github.com/RalfCyprus/ESP8266_Encoder_Slider_LED_Control
+//Youtube: https://youtu.be/AQuBhiYpJxo
 
 
 
@@ -114,6 +115,8 @@ void setup() {
   Serial.begin(74880);
   Serial.println("INFO: ");
   Serial.println(F(__FILE__ " " __DATE__ " " __TIME__));
+  Serial.println("Sketch on Github: https://github.com/RalfCyprus/ESP8266_Encoder_Slider_LED_Control");
+  Serial.println("Youtube: https://youtu.be/AQuBhiYpJxo");
   analogWrite(Light, sliderValue.toInt());
   // Neuer Zusatz für statische IP - Begin
   IPAddress ip(192, 168, 4, 2);
