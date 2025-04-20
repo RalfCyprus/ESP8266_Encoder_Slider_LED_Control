@@ -1,14 +1,4 @@
-//23 FUNZT  Heartbeat LED und gelbe LED werden über LDR in de Helligkeit geregelt
-//22 FadeIn/Out FUNZT noch ohne LDR
-//Basis20  FadeOut FUNZT mit Led Encoder Slider
-//Basis10
 
-//Basis 09 Encoder eingepflegt ohne FadeIn/Out kein Absturtz
-//09 mit blink und reset FUNZT aber ohne Encoder
-//Basis 06
-//Slider/Led folgt Encoder und andersrum noch kein fadeIn/Out kein Absturtz
-//Encoder wird im Phone korret angezeigt
-//Encoder eingepflegt
 
 
 
